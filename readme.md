@@ -12,21 +12,19 @@
 
 - [Javascript][javascript]
 - [TypeScript][typescript]
-- [Faunadb][faunadb]
-- [React Hook Forms][react-hook-forms]
-- [React Query][react-query]
-- [Framer Motion][framer-motion]
-- [Chakra UI][chakra-ui]
+- [Tailwind][tailwind]
+- [Phosphor Icons][phosphor]
+- [Radix][radix]
+- [Vite][vite]
 - [Axios][axios]
 
 [javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [typescript]: https://www.typescriptlang.org/
-[faunadb]: https://fauna.com/
-[react-hook-forms]: https://react-hook-form.com/
-[react-query]: https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/
-[chakra-ui]: https://chakra-ui.com/
+[tailwind]: https://tailwindcss.com/
+[phosphor]: https://phosphoricons.com/
+[radix]: https://www.radix-ui.com/
+[vite]: https://vitejs.dev/
 [axios]: https://axios-http.com/docs/intro
-[framer-motion]: https://www.framer.com/motion/
 
 ### 🤔 How run it?
 
